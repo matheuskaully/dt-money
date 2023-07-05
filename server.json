@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Loja Brasil Store",
+      "type": "income",
+      "category": "Venda",
+      "price": "12982",
+      "createdAt": "2023-07-05T22:20:33.493Z"
+    },
+    {
+      "id": 2,
+      "description": "Parcela do apartamento",
+      "type": "outcome",
+      "category": "Compra",
+      "price": "2200",
+      "createdAt": "2023-07-05T22:20:43.493Z"
+    },
+    {
+      "id": 3,
+      "description": "Outback",
+      "type": "outcome",
+      "category": "Lanche",
+      "price": "320",
+      "createdAt": "2023-07-05T22:20:53.493Z"
+    }
+  ]
+}
