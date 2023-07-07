@@ -5,7 +5,7 @@
       "description": "Desenvolvimento de Loja Brasil Store",
       "type": "income",
       "category": "Venda",
-      "price": "12982",
+      "price": 12982,
       "createdAt": "2023-07-05T22:20:33.493Z"
     },
     {
@@ -13,7 +13,7 @@
       "description": "Parcela do apartamento",
       "type": "outcome",
       "category": "Compra",
-      "price": "2200",
+      "price": 2200,
       "createdAt": "2023-07-05T22:20:43.493Z"
     },
     {
@@ -21,8 +21,16 @@
       "description": "Outback",
       "type": "outcome",
       "category": "Lanche",
-      "price": "320",
+      "price": 320,
       "createdAt": "2023-07-05T22:20:53.493Z"
+    }, 
+    {
+      "id": 4,
+      "description": "Tênis Nike AirMax 90's",
+      "type": "outcome",
+      "category": "Compra",
+      "price": 580,
+      "createdAt": "2023-07-08T21:20:53.493Z"
     }
   ]
 }
