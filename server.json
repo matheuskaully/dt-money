@@ -23,7 +23,7 @@
       "category": "Lanche",
       "price": 320,
       "createdAt": "2023-07-05T22:20:53.493Z"
-    }, 
+    },
     {
       "id": 4,
       "description": "Tênis Nike AirMax 90's",
@@ -31,6 +31,38 @@
       "category": "Compra",
       "price": 580,
       "createdAt": "2023-07-08T21:20:53.493Z"
+    },
+    {
+      "id": 5,
+      "description": "Salário mensal",
+      "type": "income",
+      "category": "Salário",
+      "price": 3898.97,
+      "createdAt": "2023-07-09T21:20:53.493Z"
+    },
+    {
+      "description": "Corte de cabelo",
+      "category": "Gastos",
+      "type": "outcome",
+      "price": 25,
+      "createdAt": "2023-07-13T14:07:57.516Z",
+      "id": 6
+    },
+    {
+      "description": "FN 80N",
+      "category": "Compra",
+      "type": "outcome",
+      "price": 99,
+      "createdAt": "2023-07-13T14:27:36.448Z",
+      "id": 7
+    },
+    {
+      "description": "Hambúrguer ",
+      "category": "Lanche",
+      "type": "outcome",
+      "price": 42,
+      "createdAt": "2023-07-13T14:36:27.643Z",
+      "id": 8
     }
   ]
 }
